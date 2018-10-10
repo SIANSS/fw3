@@ -1,0 +1,27 @@
+.possition{
+  padding-right: 100px;
+
+}
+#startmsg {
+  display: none;
+}
+#player {
+  display: none;
+}
+#root{
+  display: none;
+}
+#spaceit{
+  margin-right: 2%;
+}
+#hider {
+  display: block;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: auto;
+  padding-right: auto;
+}
+.animation-head{
+  animation-name: 
+}
